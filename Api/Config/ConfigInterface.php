@@ -2,6 +2,11 @@
 
 namespace Rcason\Mq\Api\Config;
 
+/**
+ * Interface ConfigInterface
+ * @package Rcason\Mq\Api\Config
+ * @api
+ */
 interface ConfigInterface
 {
     /**

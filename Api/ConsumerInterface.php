@@ -2,6 +2,11 @@
 
 namespace Rcason\Mq\Api;
 
+/**
+ * Interface ConsumerInterface
+ * @package Rcason\Mq\Api
+ * @api
+ */
 interface ConsumerInterface
 {
     /**

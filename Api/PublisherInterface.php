@@ -2,6 +2,11 @@
 
 namespace Rcason\Mq\Api;
 
+/**
+ * Interface PublisherInterface
+ * @package Rcason\Mq\Api
+ * @api
+ */
 interface PublisherInterface
 {
     /**

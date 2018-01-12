@@ -2,6 +2,11 @@
 
 namespace Rcason\Mq\Api\Data;
 
+/**
+ * Interface MessageEnvelopeInterface
+ * @package Rcason\Mq\Api\Data
+ * @api
+ */
 interface MessageEnvelopeInterface
 {
     const BROKER_REF_ID = 'broker_ref_id';

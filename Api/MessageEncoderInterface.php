@@ -2,6 +2,11 @@
 
 namespace Rcason\Mq\Api;
 
+/**
+ * Interface MessageEncoderInterface
+ * @package Rcason\Mq\Api
+ * @api
+ */
 interface MessageEncoderInterface
 {
     /**
